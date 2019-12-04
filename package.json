@@ -13,7 +13,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^6.1.0",
-    "jest": "^24.8.0"
+    "eslint": "^6.4.0",
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "eslint-config-loopback": "^13.1.0",
+    "faker": "^4.1.0"
   }
 }
